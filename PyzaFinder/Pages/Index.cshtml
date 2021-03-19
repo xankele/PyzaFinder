@@ -1,0 +1,56 @@
+﻿@page
+@model PyzaFinder.Pages.IndexModel
+<br />
+<div class="container row p-0 m-0">
+    <div class="col-8">
+        <h2 class="text-info">List of restaurants</h2>
+    </div>
+    <div class="col-4">
+        <a asp-page="Create" class="btn btn-info form-control text-white">Add a new restaurant</a>
+    </div>
+    <div class="col-12 border p-3 mt-3">
+        <form method="post">
+            @if (Model.DumplingRestaurants.Count() > 0)
+            {
+                <table class="table table-striped border">
+                    <tr class="table-secondary">
+                        <th>
+                            <label asp-for="DumplingRestaurant.FirstOrDefault().Name"></label>
+                        </th>
+                        <th>
+                            <label asp-for="DumplingRestaurant.FirstOrDefault().Address"></label>
+                        </th>
+                        <th>
+                            <label asp-for="DumplingRestaurant.FirstOrDefault().PhoneNumber"></label>
+                        </th>
+                        <th>
+
+                        </th>
+                    </tr>
+                    @foreach (var item in Model.DumplingRestaurants)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(m => item.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Address)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.PhoneNumber)
+                            </td>
+                            <td>
+                                <button asp-page-handler="Delete" asp-route-id="@item.IdRestaurant" onclick="return confirm('Are you sure you want to delete?')" class="btn btn-info btn-sm">Delete</button>
+                                <a asp-page="Edit" asp-route-id="@item.IdRestaurant" class="btn btn-info btn-sm text-white">Edit/a>
+                            </td>
+                        </tr>
+                    }
+                </table>
+            }
+            else
+            {
+                <p>There aren't any restaurants yet.</p>
+            }
+        </form>
+    </div>
+</div>
