@@ -26,9 +26,10 @@ namespace PyzaFinder
 
         public void ConfigureServices(IServiceCollection services)
         {
+
             services.AddDbContext<DumplingContext>(options =>
             {
-                options.UseNpgsql(Configuration.GetConnectionString("Server=localhost; Port=5432; Database=pierogi; User Id=postgres; Password=studia"));
+                options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"));
             });
             //services.AddDbContext<DumplingContext>(options => options.UseNpgsql(Configuration["ConnectionStrings:myDbPyza"]));
             services.AddRazorPages().AddRazorRuntimeCompilation();
