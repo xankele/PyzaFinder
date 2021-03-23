@@ -132,8 +132,6 @@ D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\scopedcss\bundle\PyzaFinder.sty
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.TagHelpers.input.cache
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.TagHelpers.output.cache
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorCoreGenerate.cache
-D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Create.cshtml.g.cs
-D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorTargetAssemblyInfo.cache
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorTargetAssemblyInfo.cs
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.Views.pdb
@@ -445,7 +443,9 @@ D:\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.MvcApplicationPartsAssemblyInfo.cs
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\libman.json
+D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Create.cshtml.g.cs
+D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs

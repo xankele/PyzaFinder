@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "j9YVM4fENJA3Y6W0SCXoWjGb4VMbd+LESa1gKRFRi2FBnudftK7IlxdMhmBxmAC+E5HgEE+qFc99HMf/rGyMSw==",
+  "dgSpecHash": "pBbygzgDvHP/5nYyCXnqu0xq/gH7bd6S1cJ7ysAMA1W+9S4SUp5Oh9q24Wp/fU8gcha5RaFyrlLa0QZO3VCg1w==",
   "success": true,
   "projectFilePath": "D:\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\Julcia\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.4\\microsoft.entityframeworkcore.design.5.0.4.nupkg.sha512",
     "C:\\Users\\Julcia\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.4\\microsoft.entityframeworkcore.relational.5.0.4.nupkg.sha512",
     "C:\\Users\\Julcia\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.4\\microsoft.entityframeworkcore.sqlserver.5.0.4.nupkg.sha512",
+    "C:\\Users\\Julcia\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.4\\microsoft.entityframeworkcore.tools.5.0.4.nupkg.sha512",
     "C:\\Users\\Julcia\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Julcia\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\Julcia\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

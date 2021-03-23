@@ -30,7 +30,7 @@ namespace PyzaFinder
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseNpgsql("Server=localhost;Database=pierogi;User Id=postgres;Password=romaniec111");
+                optionsBuilder.UseNpgsql("Server=localhost;Database=pierogi;User Id=postgres;Password=studia");
             }
         }
 
@@ -41,16 +41,29 @@ namespace PyzaFinder
 
             modelBuilder.Entity<Account>(entity =>
             {
-                entity.HasKey(e => e.Login)
+                entity.HasKey(e => e.Email)
                     .HasName("account_pkey");
 
                 entity.ToTable("account");
 
-                entity.Property(e => e.Login).HasColumnName("login");
+                entity.Property(e => e.Email)
+                    .HasMaxLength(255)
+                    .HasColumnName("email")
+                    .IsFixedLength(true);
 
                 entity.Property(e => e.Password)
                     .HasMaxLength(255)
                     .HasColumnName("password")
+                    .IsFixedLength(true);
+
+                entity.Property(e => e.Name)
+                    .HasMaxLength(255)
+                    .HasColumnName("name")
+                    .IsFixedLength(true);
+
+                entity.Property(e => e.Acctype)
+                    .HasMaxLength(255)
+                    .HasColumnName("acctype")
                     .IsFixedLength(true);
             });
 
@@ -94,6 +107,11 @@ namespace PyzaFinder
                     .IsRequired()
                     .HasMaxLength(255)
                     .HasColumnName("name")
+                    .IsFixedLength(true);
+
+                entity.Property(e => e.Opis)
+                    .HasMaxLength(1000)
+                    .HasColumnName("opis")
                     .IsFixedLength(true);
 
                 entity.Property(e => e.PhoneNumber)

@@ -14,7 +14,8 @@ namespace PyzaFinder
 
     {
         public Account_type Acctype { get; set; }
-        public int Login { get; set; }
+        public string Name { get; set; }
         public string Password { get; set; }
+        public string Email { get; set; }
     }
 }
