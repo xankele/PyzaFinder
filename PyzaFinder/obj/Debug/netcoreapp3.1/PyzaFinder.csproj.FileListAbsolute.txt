@@ -443,5 +443,9 @@ D:\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CShar
 D:\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.MvcApplicationPartsAssemblyInfo.cs
-D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\libman.json
+D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs

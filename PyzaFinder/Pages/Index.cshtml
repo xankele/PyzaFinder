@@ -1,5 +1,8 @@
 ﻿@page
 @model PyzaFinder.Pages.IndexModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
 <br />
 <div class="container row p-0 m-0">
     <div class="col-8">
@@ -15,13 +18,10 @@
                 <table class="table table-striped border">
                     <tr class="table-secondary">
                         <th>
-                            <label asp-for="DumplingRestaurant.FirstOrDefault().Name"></label>
+                            <label asp-for="DumplingRestaurants.FirstOrDefault().Name"></label>
                         </th>
                         <th>
-                            <label asp-for="DumplingRestaurant.FirstOrDefault().Address"></label>
-                        </th>
-                        <th>
-                            <label asp-for="DumplingRestaurant.FirstOrDefault().PhoneNumber"></label>
+                            <label asp-for="DumplingRestaurants.FirstOrDefault().Address"></label>
                         </th>
                         <th>
 
@@ -35,9 +35,6 @@
                             </td>
                             <td>
                                 @Html.DisplayFor(m => item.Address)
-                            </td>
-                            <td>
-                                @Html.DisplayFor(m => item.PhoneNumber)
                             </td>
                             <td>
                                 <button asp-page-handler="Delete" asp-route-id="@item.IdRestaurant" onclick="return confirm('Are you sure you want to delete?')" class="btn btn-info btn-sm">Delete</button>

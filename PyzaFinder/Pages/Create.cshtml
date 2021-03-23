@@ -1,7 +1,10 @@
 ﻿@page
 @model PyzaFinder.Pages.CreateModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
 <br />
-<h2 class="text-info">Add new dumpling restaurant</h2>
+<h2 class="text-info">Add new restaurant</h2>
 <br />
 
 <div class="border container" style="padding:30px;">
@@ -32,7 +35,7 @@
             <div class="col-6">
                 <input asp-for="DumplingRestaurant.PhoneNumber" class="form-control" />
             </div>
-            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            <span asp-validation-for="DumplingRestaurant.PhoneNumber" class="text-danger"></span>
         </div>
         <div class="form-group row">
             <div class="col-3 offset-3">
@@ -45,6 +48,6 @@
     </form>
 </div>
 
-@section Scripts{
-    <partial name="_ValidationSCriptsPartial" />
+@{
+    <partial name="_ValidationScriptsPartial" />
 }
