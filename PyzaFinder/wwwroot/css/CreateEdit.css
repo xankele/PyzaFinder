@@ -4,6 +4,8 @@
     box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.3);
     border-radius: 46px;
     padding: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
 }
 .form2 {
     display: inline-block;
