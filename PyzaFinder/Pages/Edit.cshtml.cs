@@ -8,6 +8,7 @@ using Npgsql;
 
 namespace PyzaFinder.Pages
 {
+    
     public class EditModel : PageModel
     {
         private static NpgsqlConnection GetConnection()
@@ -32,7 +33,7 @@ namespace PyzaFinder.Pages
         {
             using (NpgsqlConnection con = GetConnection())//nawi¹zanie po³¹czenia z baz¹
             {
-                string query = $"update public.links set page_link='{page}',facebook_link='{facebook}',instagram_link='{instagram}' where id_restaurant='{obcy}'";
+                string query = $"update public.links SET page_link='{page}',facebook_link='{facebook}',instagram_link='{instagram}' WHERE id_restaurant='{obcy}'";
                 NpgsqlCommand cmd = new NpgsqlCommand(query, con);
                 con.Open();
                 int n = cmd.ExecuteNonQuery();
@@ -46,7 +47,7 @@ namespace PyzaFinder.Pages
         {
             using (NpgsqlConnection con = GetConnection())//nawi¹zanie po³¹czenia z baz¹
             {
-                string query = $"insert into public.coordinates(id_restaurant, coordinate_x, coordinate_y)values('{obcy}','{x}','{y}')";
+                string query = $"update public.coordinates SET coordinate_x='{x}',coordinate_y='{y}' WHERE id_restaurant='{obcy}'";
                 NpgsqlCommand cmd = new NpgsqlCommand(query, con);
                 con.Open();
                 int n = cmd.ExecuteNonQuery();
@@ -60,7 +61,7 @@ namespace PyzaFinder.Pages
         {
             using (NpgsqlConnection con = GetConnection())//nawi¹zanie po³¹czenia z baz¹
             {
-                string query = $"insert into public.schedule(id_restaurant, monday, tuesday, wednesday, thursday, friday, saturday, sunday)values('{obcy}','{mon}','{tue}','{wed}','{thu}','{fri}','{sat}','{sun}')";
+                string query = $"update public.schedule SET monday='{mon}', tuesday='{tue}', wednesday='{wed}', thursday='{thu}', friday='{fri}', saturday='{sat}', sunday='{sun}' WHERE id_restaurant='{obcy}'";
                 NpgsqlCommand cmd = new NpgsqlCommand(query, con);
                 con.Open();
                 int n = cmd.ExecuteNonQuery();
@@ -83,25 +84,23 @@ namespace PyzaFinder.Pages
         public Coordinate Coordinate { get; set; }
         [BindProperty]
         public Schedule Schedule { get; set; }
+        
         public async Task OnGet(int id)
         {
-            int id_dupa = id;
             DumplingRestaurant = await _db.DumplingRestaurants.FindAsync(id);
         }
         public async Task<IActionResult> OnPost()
         {
             if (ModelState.IsValid)
             {
-                //var DumpFromDb = await _db.DumplingRestaurants.FindAsync(DumplingRestaurant.IdRestaurant);
-                //DumpFromDb.Name = DumplingRestaurant.Name;
+                var DumpFromDb = await _db.DumplingRestaurants.FindAsync(DumplingRestaurant.IdRestaurant);
                 //DumpFromDb.Address= DumplingRestaurant.Address;
                 //DumpFromDb.PhoneNumber = DumplingRestaurant.PhoneNumber;
-                await _db.SaveChangesAsync();
-
+                //await _db.SaveChangesAsync();
                 EditRecordRestaurant(DumplingRestaurant.IdRestaurant, DumplingRestaurant.Name, DumplingRestaurant.Address, DumplingRestaurant.PhoneNumber, DumplingRestaurant.Description);
-                //EditRecordLink(DumplingRestaurant.IdRestaurant, Link.PageLink, Link.InstagramLink, Link.FacebookLink);
+                EditRecordLink(DumplingRestaurant.IdRestaurant, Link.PageLink, Link.InstagramLink, Link.FacebookLink);
                 //EditRecordCoord(DumplingRestaurant.IdRestaurant, Coordinate.CoordinateX, Coordinate.CoordinateY);
-                //EditRecordSchedule(DumplingRestaurant.IdRestaurant, Schedule.Monday, Schedule.Tuesday, Schedule.Wednesday, Schedule.Thursday, Schedule.Friday, Schedule.Saturday, Schedule.Sunday);
+                EditRecordSchedule(DumplingRestaurant.IdRestaurant, Schedule.Monday, Schedule.Tuesday, Schedule.Wednesday, Schedule.Thursday, Schedule.Friday, Schedule.Saturday, Schedule.Sunday);
                 return RedirectToPage("Index");
             }
             return RedirectToPage();
