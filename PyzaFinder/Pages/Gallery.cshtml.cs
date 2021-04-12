@@ -23,5 +23,16 @@ namespace PyzaFinder.Pages
             DumplingRestaurant = await _db.DumplingRestaurants.FindAsync(id);
             Photos = await _db.Photos.Where(j => j.IdRestaurant.Equals(id)).ToListAsync();
         }
+        public async Task<IActionResult> OnPostDelete(int id)
+        {
+            var photo = await _db.Photos.FindAsync(id);
+            if (photo == null)
+            {
+                return NotFound();
+            }
+            _db.Photos.Remove(photo);
+            await _db.SaveChangesAsync();
+            return RedirectToPage("Gallery");
+        }
     }
 }
