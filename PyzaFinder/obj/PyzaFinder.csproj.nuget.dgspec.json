@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj": {}
+    "D:\\vorwi\\ZajęciaZdalne\\szóstySemestr\\ZespołoweMapka\\STRONA\\PyzaFinder\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj": {}
   },
   "projects": {
-    "D:\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj": {
+    "D:\\vorwi\\ZajęciaZdalne\\szóstySemestr\\ZespołoweMapka\\STRONA\\PyzaFinder\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
+        "projectUniqueName": "D:\\vorwi\\ZajęciaZdalne\\szóstySemestr\\ZespołoweMapka\\STRONA\\PyzaFinder\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
         "projectName": "PyzaFinder",
-        "projectPath": "D:\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
-        "packagesPath": "C:\\Users\\Julcia\\.nuget\\packages\\",
-        "outputPath": "D:\\PyzaFinder\\PyzaFinder\\obj\\",
+        "projectPath": "D:\\vorwi\\ZajęciaZdalne\\szóstySemestr\\ZespołoweMapka\\STRONA\\PyzaFinder\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
+        "packagesPath": "C:\\Users\\vorwi\\.nuget\\packages\\",
+        "outputPath": "D:\\vorwi\\ZajęciaZdalne\\szóstySemestr\\ZespołoweMapka\\STRONA\\PyzaFinder\\PyzaFinder\\PyzaFinder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Julcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vorwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

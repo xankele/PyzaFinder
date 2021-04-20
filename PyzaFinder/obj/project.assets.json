@@ -6355,19 +6355,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Julcia\\.nuget\\packages\\": {}
+    "C:\\Users\\vorwi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
+      "projectUniqueName": "D:\\vorwi\\ZajęciaZdalne\\szóstySemestr\\ZespołoweMapka\\STRONA\\PyzaFinder\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
       "projectName": "PyzaFinder",
-      "projectPath": "D:\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
-      "packagesPath": "C:\\Users\\Julcia\\.nuget\\packages\\",
-      "outputPath": "D:\\PyzaFinder\\PyzaFinder\\obj\\",
+      "projectPath": "D:\\vorwi\\ZajęciaZdalne\\szóstySemestr\\ZespołoweMapka\\STRONA\\PyzaFinder\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
+      "packagesPath": "C:\\Users\\vorwi\\.nuget\\packages\\",
+      "outputPath": "D:\\vorwi\\ZajęciaZdalne\\szóstySemestr\\ZespołoweMapka\\STRONA\\PyzaFinder\\PyzaFinder\\PyzaFinder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Julcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vorwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6447,5 +6447,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\vorwi\\ZajęciaZdalne\\szóstySemestr\\ZespołoweMapka\\STRONA\\PyzaFinder\\PyzaFinder\\PyzaFinder\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
