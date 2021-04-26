@@ -9,8 +9,7 @@
     <script src="~/js/oLayers/myMarkersCloud.js"></script>
 }
 @functions{
-    @using Npgsql;
-    private static NpgsqlConnection GetConnection()
+    @using Npgsql;private static NpgsqlConnection GetConnection()
     {
         return new NpgsqlConnection(@"Server=localhost;Port=5432;User Id=postgres;Password=romaniec111;Database=pierogi");
     }
@@ -52,6 +51,25 @@
             return val;
         }
     }
+    private static string SelectCoordinates(int obcy, string coordinate)
+    {
+        using (NpgsqlConnection con = GetConnection())//nawiązanie połączenia z bazą
+        {
+            string val = "brak";
+            string query = $"select {coordinate} from public.coordinates where id_restaurant={obcy}";
+            con.Open();
+            // Define a query returning a single row result set
+            NpgsqlCommand command = new NpgsqlCommand(query, con);
+            // Execute the query and obtain the value of the first column of the first row
+            if (command.ExecuteScalar() != null)
+            {
+                string count = (string)command.ExecuteScalar().ToString();
+                val = count;
+            }
+            con.Close();
+            return val;
+        }
+    }
     private static int SelectGrade(int obcy)
     {
         using (NpgsqlConnection con = GetConnection())//nawiązanie połączenia z bazą
@@ -81,14 +99,6 @@
             return val;
         }
     }
-    public void JS(string name_js)
-    {
-        <script type="text/javascript">
-            fDrawMarkers("@name_js", "@name_js", 51.30728, 22.50085);
-            Console.log(@name_js+"skrypt");
-        </script>
-        Console.WriteLine(name_js+" w metodzie");
-    }
     //private static long CountRowsGrade(int obcy)
     //{
     //    using (NpgsqlConnection con = GetConnection())//nawiązanie połączenia z bazą
@@ -109,6 +119,7 @@
     //    }
     //}
 }
+
 <div id="basicMap"><img src="~/img/pyzunia.png" style="position: absolute; bottom: 0; right: 0; width: 12%; height: auto; margin: 60px; z-index:1000;"></div>
 
 <div id="search"></div>
@@ -147,56 +158,49 @@
     <h2 style="font-size:20px">LIST OF RESTAURANTS</h2>
     <ul id="restaurants">
         <div style="width: 100%; height: 560px; overflow-y: auto;">
+
             <script type="text/javascript">
                 init();
             </script>
-
-            @{int zero = 0; }
             @foreach (var item in Model.DumplingRestaurants)
             {
-                string name_js = zero.ToString();
-                Console.WriteLine(name_js);
-                JS(name_js);
-                float cord_x_js = 0;
-                float cord_y_js = 0;
-                zero++;
+                string path = SelectPath(item.IdRestaurant);
+                string grade = SelectGrade(item.IdRestaurant).ToString();
+                string coord_x = SelectCoordinates(item.IdRestaurant, "coordinate_x").ToString();
+                string coord_y = SelectCoordinates(item.IdRestaurant, "coordinate_y").ToString();
+<script type="text/javascript">
+    fDrawMarkers("@item.Name", "@coord_x", "@coord_y", "@path", "@grade", "@item.Description");
+</script>
                 <li>
                     <div class="jeden">
                         <div class="napis">
                             Phone: @Html.DisplayFor(m => item.PhoneNumber)<br>
                             Today:
-                            @{string day = DateTime.Now.DayOfWeek.ToString();
-                            }
+                            @{string day = DateTime.Now.DayOfWeek.ToString(); }
                             @SelectSchedule(day, item.IdRestaurant);
                             <br>
                             @Html.DisplayFor(m => item.Address)
                         </div>
-                        @{string path = SelectPath(item.IdRestaurant);}
                         <a href="polecam.html"><img src="@Url.Content(path)" style="height: 98%; border-radius: 25px; padding-right: 2%; width: auto; float: right;"></a>
                     </div>
                     <div class="dwa">
                         <div class="gwiazdki">
-                            @{
-                                int ocena = 0;
+                            @{ int ocena = 0;
                                 ocena = SelectGrade(item.IdRestaurant);
                                 if (ocena == 0)
                                 {
-                                    <p>brak ocen</p>
-                                }
-                                while (ocena > 0)
-                                {
-                                    if (ocena > 1)
-                                    {
-                                        <img src="~/img/star.png" style="height: auto; width: 18%; float: left;">
-                                        ocena -= 2;
-                                    }
-                                    if (ocena <= 1 && ocena > 0)
-                                    {
-                                        <img src="~/img/starL.png" style="height: auto; width: 18%; float: left;">
-                                        ocena--;
-                                    }
-                                }
-                            }
+                <p>brak ocen</p> }
+            while (ocena > 0)
+            {
+                if (ocena > 1)
+                {
+<img src="~/img/star.png" style="height: auto; width: 18%; float: left;"> ocena -= 2;
+}
+if (ocena <= 1 && ocena > 0)
+{
+<img src="~/img/starL.png" style="height: auto; width: 18%; float: left;"> ocena--;
+}
+} }
                         </div>
                         <div class="opinie">
                             <a href="polecam.html">Show opinions</a>
@@ -205,8 +209,7 @@
                             Distance: 5m
                         </div>
                     </div>
-                </li>
-            }
+                </li>}
         </div>
     </ul>
 
@@ -217,3 +220,7 @@
 <div id="pyza">
 
 </div>
+
+
+
+

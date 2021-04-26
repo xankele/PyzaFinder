@@ -97,26 +97,23 @@ function createMarkers(id, lon, lat, markerFile, markerWidth, markerHeight, offs
 		map.addLayer(layerMarkers);
 	}
 
-function fDrawMarkers(name,path2,cord_x,cord_y){
+function fDrawMarkers(name,cord_x,cord_y,path2,grade,description){
 	// utwórz warstwę na przyjęcie znaczników (markerów)
 	createMarkersLayer('dymki','Popup (dymki)', true, true)
 	// współrzędne punktu
 	var lon; var lat;
-
 	// wielkość pliku graficznego i zarazem podkatalog plików graficznych
 	var size=48;
-	// ścieżka do plików graficznych "Centered")
-	var path='markers/IconsLand/PNG/Centered/'+size.toString()+'x'+size.toString()+'/';
-
-	lat=cord_x;lon=cord_y //lat połnoc/połódnie lon wschod/zachod
-	createMarkers('miejsce01',lon,lat, path+'marker.png',
-										size, size, -size/2, -size,
-										name,
-										'Jadłam tam polecam.',
-										path2,
-										'Restauracjia pyzowa')
 	// ścieżka do plików graficznych "NotCentered")
-	path='../img/'+size.toString()+'x'+size.toString()+'/';
+	path = '../img/' + size.toString() + 'x' + size.toString() + '/';
+
+	lat = cord_x; lon = cord_y //lat połnoc/połódnie lon wschod/zachod
+		createMarkers(name, lon, lat, path + 'marker.png',
+			size, size, -size / 2, -size,
+			name,
+			'ocena'+grade+'/10',
+			'../img/pyzunia.png',
+			description)
 	// wycentruj mapę w/m współrzędnych środka, powiększ do skali zoomLevel
-	fInitCenterMap(22.501000, 51.297918, 14);
+	fInitCenterMap(1, 1, 14);
 }

@@ -8899,11 +8899,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vorwi\\Desktop\\pyzunia\\PyzaFinder\\PyzaFinder.csproj",
+      "projectUniqueName": "D:\\vorwi\\POBRANE\\PyzaFinder-ankelka_XDDD\\PyzaFinder-ankelka\\PyzaFinder\\PyzaFinder.csproj",
       "projectName": "PyzaFinder",
-      "projectPath": "C:\\Users\\vorwi\\Desktop\\pyzunia\\PyzaFinder\\PyzaFinder.csproj",
+      "projectPath": "D:\\vorwi\\POBRANE\\PyzaFinder-ankelka_XDDD\\PyzaFinder-ankelka\\PyzaFinder\\PyzaFinder.csproj",
       "packagesPath": "C:\\Users\\vorwi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vorwi\\Desktop\\pyzunia\\PyzaFinder\\obj\\",
+      "outputPath": "D:\\vorwi\\POBRANE\\PyzaFinder-ankelka_XDDD\\PyzaFinder-ankelka\\PyzaFinder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vorwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
