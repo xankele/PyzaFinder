@@ -449,3 +449,1285 @@ D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 D:\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\libman.json
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.exe
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.deps.json
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.runtimeconfig.json
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.runtimeconfig.dev.json
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.pdb
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.Views.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.Views.pdb
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.csprojAssemblyReference.cache
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.AssemblyInfoInputs.cache
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.AssemblyInfo.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.csproj.CoreCompileInputs.cache
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.MvcApplicationPartsAssemblyInfo.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.MvcApplicationPartsAssemblyInfo.cache
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorAssemblyInfo.cache
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorAssemblyInfo.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\staticwebassets\PyzaFinder.StaticWebAssets.Manifest.cache
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\staticwebassets\PyzaFinder.StaticWebAssets.xml
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\scopedcss\bundle\PyzaFinder.styles.css
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.TagHelpers.input.cache
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.TagHelpers.output.cache
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorCoreGenerate.cache
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Create.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorTargetAssemblyInfo.cache
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorTargetAssemblyInfo.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.Views.pdb
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.csproj.CopyComplete
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.pdb
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.genruntimeconfig.cache
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\libman.json
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.exe
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.deps.json
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.runtimeconfig.json
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.runtimeconfig.dev.json
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.pdb
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.Json.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.Views.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.Views.pdb
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.csprojAssemblyReference.cache
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.AssemblyInfoInputs.cache
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.AssemblyInfo.cs
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.csproj.CoreCompileInputs.cache
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.MvcApplicationPartsAssemblyInfo.cs
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.MvcApplicationPartsAssemblyInfo.cache
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorAssemblyInfo.cache
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorAssemblyInfo.cs
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\staticwebassets\PyzaFinder.StaticWebAssets.Manifest.cache
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\staticwebassets\PyzaFinder.StaticWebAssets.xml
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\scopedcss\bundle\PyzaFinder.styles.css
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.TagHelpers.input.cache
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.TagHelpers.output.cache
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorCoreGenerate.cache
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Create.cshtml.g.cs
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorTargetAssemblyInfo.cache
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorTargetAssemblyInfo.cs
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.Views.pdb
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.csproj.CopyComplete
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.dll
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.pdb
+D:\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.genruntimeconfig.cache
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Gallery.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Map.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\AddPhoto.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\AdminGallery.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\appsettings.json
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\libman.json
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.exe
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.deps.json
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.runtimeconfig.json
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.runtimeconfig.dev.json
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.pdb
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.Views.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\PyzaFinder.Views.pdb
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.csprojAssemblyReference.cache
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.AssemblyInfoInputs.cache
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.AssemblyInfo.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.csproj.CoreCompileInputs.cache
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.MvcApplicationPartsAssemblyInfo.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.MvcApplicationPartsAssemblyInfo.cache
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorAssemblyInfo.cache
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorAssemblyInfo.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\staticwebassets\PyzaFinder.StaticWebAssets.Manifest.cache
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\staticwebassets\PyzaFinder.StaticWebAssets.xml
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\scopedcss\bundle\PyzaFinder.styles.css
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.TagHelpers.input.cache
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.TagHelpers.output.cache
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorCoreGenerate.cache
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\AddPhoto.cshtml.g.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\AdminGallery.cshtml.g.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Create.cshtml.g.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Gallery.cshtml.g.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Map.cshtml.g.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorTargetAssemblyInfo.cache
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.RazorTargetAssemblyInfo.cs
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.Views.pdb
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.csproj.CopyComplete
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.dll
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.pdb
+D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.genruntimeconfig.cache

@@ -109,9 +109,9 @@ namespace PyzaFinder
                     .HasColumnName("name")
                     .IsFixedLength(true);
 
-                entity.Property(e => e.Opis)
+                entity.Property(e => e.Description)
                     .HasMaxLength(1000)
-                    .HasColumnName("opis")
+                    .HasColumnName("description")
                     .IsFixedLength(true);
 
                 entity.Property(e => e.PhoneNumber)
