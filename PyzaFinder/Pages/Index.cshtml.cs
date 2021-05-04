@@ -22,12 +22,12 @@ namespace PyzaFinder.Pages
         }
         public async Task<IActionResult> OnPostDelete(int id)
         {
-            var book = await _db.DumplingRestaurants.FindAsync(id);
-            if (book == null)
+            var dumpling = await _db.DumplingRestaurants.FindAsync(id);
+            if (dumpling == null)
             {
                 return NotFound();
             }
-            _db.DumplingRestaurants.Remove(book);
+            _db.DumplingRestaurants.Remove(dumpling);
             await _db.SaveChangesAsync();
             return RedirectToPage("Index");
         }

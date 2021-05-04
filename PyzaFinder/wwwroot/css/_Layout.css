@@ -1,15 +1,10 @@
 ﻿body {
-    
-    
-    
     margin: 22px;
     font-family: Tempus Sans ITC;
-
 }
 #center {
     background-color: #F7F8F4;
     border-radius: 46px;
     box-shadow: 2px 2px 3px 0px rgba(183, 183, 183, 0.5);
-    max-height: 744px;
     min-height: 700px;
-}   
+}
