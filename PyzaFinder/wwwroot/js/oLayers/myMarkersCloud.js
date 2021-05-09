@@ -48,10 +48,10 @@ function createMarkers(id, lon, lat, markerFile, markerWidth, markerHeight, offs
   var popupHtml=''
     popupHtml+='<div id="frameCloud">'
     popupHtml+='<h1>'+popupTitle+'</h1>'
-    popupHtml+='<span id="dscr">'+popupDescription+'</span>'
+
     popupHtml+='<div id="foto">'
     popupHtml+='<img src="'+popupImage+'" alt="foto '+popupTitle+'"/><br>'
-    popupHtml+='<span>'+popupImageCaption+'</span>'
+
     popupHtml+='</div></div>'
 	/*
 		Definicja okna popup, które będzie utworzone po kliknięciu znacznika.
@@ -97,7 +97,7 @@ function createMarkers(id, lon, lat, markerFile, markerWidth, markerHeight, offs
 		map.addLayer(layerMarkers);
 	}
 
-function fDrawMarkers(name,cord_x,cord_y,path2,grade,description){
+function fDrawMarkers(name, cord_x, cord_y, path2, grade) {
 	// utwórz warstwę na przyjęcie znaczników (markerów)
 	createMarkersLayer('dymki','Popup (dymki)', true, true)
 	// współrzędne punktu
@@ -108,12 +108,11 @@ function fDrawMarkers(name,cord_x,cord_y,path2,grade,description){
 	path = '../img/' + size.toString() + 'x' + size.toString() + '/';
 
 	lat = cord_x; lon = cord_y //lat połnoc/połódnie lon wschod/zachod
-		createMarkers(name, lon, lat, path + 'marker.png',
+		createMarkers(name, lon, lat, '../img/marker.png',
 			size, size, -size / 2, -size,
 			name,
 			'ocena'+grade+'/10',
-			'../img/pyzunia.png',
-			description)
+			'../img/pyzunia.png')
 	// wycentruj mapę w/m współrzędnych środka, powiększ do skali zoomLevel
-	fInitCenterMap(1, 1, 14);
+	fInitCenterMap(20.490818735899836, 53.77332128730482, 14);
 }

@@ -12,7 +12,7 @@ namespace PyzaFinder.Pages
     {
         private static NpgsqlConnection GetConnection()
         {
-            return new NpgsqlConnection(@"Server=localhost;Port=5432;User Id=postgres;Password=romaniec111;Database=pierogi");
+            return new NpgsqlConnection(@"Server=localhost;Port=5432;User Id=postgres;Password=12345;Database=pierogi");
         }
         private static void InsertRecordLink(int obcy, string page, string instagram, string facebook)
         {
@@ -83,7 +83,7 @@ namespace PyzaFinder.Pages
                 InsertRecordLink(DumplingRestaurant.IdRestaurant, Link.PageLink, Link.InstagramLink, Link.FacebookLink);
                 InsertRecordCoord(DumplingRestaurant.IdRestaurant, Coordinate.CoordinateX, Coordinate.CoordinateY);
                 InsertRecordSchedule(DumplingRestaurant.IdRestaurant, Schedule.Monday, Schedule.Tuesday, Schedule.Wednesday, Schedule.Thursday, Schedule.Friday, Schedule.Saturday, Schedule.Sunday);
-                return RedirectToPage("Index");
+                return RedirectToPage("AdminPanel");
             }
             else
             {

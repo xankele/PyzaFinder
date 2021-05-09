@@ -8894,19 +8894,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vorwi\\.nuget\\packages\\": {}
+    "C:\\Users\\Ankele\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vorwi\\ZajęciaZdalne\\szóstySemestr\\ZespołoweMapka\\STRONA\\PyzaFinder\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
+      "projectUniqueName": "D:\\Studia\\6 semestr\\Projekt zespołowy\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
       "projectName": "PyzaFinder",
-      "projectPath": "D:\\vorwi\\ZajęciaZdalne\\szóstySemestr\\ZespołoweMapka\\STRONA\\PyzaFinder\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
-      "packagesPath": "C:\\Users\\vorwi\\.nuget\\packages\\",
-      "outputPath": "D:\\vorwi\\ZajęciaZdalne\\szóstySemestr\\ZespołoweMapka\\STRONA\\PyzaFinder\\PyzaFinder\\PyzaFinder\\obj\\",
+      "projectPath": "D:\\Studia\\6 semestr\\Projekt zespołowy\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
+      "packagesPath": "C:\\Users\\Ankele\\.nuget\\packages\\",
+      "outputPath": "D:\\Studia\\6 semestr\\Projekt zespołowy\\PyzaFinder\\PyzaFinder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vorwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ankele\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
