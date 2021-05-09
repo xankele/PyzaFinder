@@ -15,16 +15,26 @@
     width: 400px;
     height: 300px;
     padding-top: 120px;
-    margin: 40px;
+    margin: 140px;
     display: inline-block;
-    z-index: 1;
-}
-#pyza {
 
+}
+a:hover {
+    text-decoration: none;
+    color: black;
+    background-color: #cfcfcf;
+}
+.text-center {
+    padding: 50px;
+    background-image: url("../img/pyzunia.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 600px 500px;
+    min-height: 700px;
 }
 img {
-
+        position: absolute;
         width: 50%;
-        z-index: 0;
+        z-index: 1;
     }
 
