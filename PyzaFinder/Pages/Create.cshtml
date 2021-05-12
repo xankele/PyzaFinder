@@ -1,0 +1,144 @@
+﻿@page
+@model PyzaFinder.Pages.CreateModel
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; }
+@section Styles {
+    <link rel="stylesheet" href="~/css/CreateEdit.css" />
+}
+<br />
+<h2 style="font-size:50px; text-align:center; padding-left:30px;">Add new restaurant</h2>
+<br />
+
+<div id="form">
+    <form method="post">
+        <div class="form2">
+            <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="DumplingRestaurant.Name"></label>
+                    <input asp-for="DumplingRestaurant.Name" class="form-control" />
+                </div>
+                <span asp-validation-for="DumplingRestaurant.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="DumplingRestaurant.Address"></label>
+                    <input asp-for="DumplingRestaurant.Address" class="form-control" />
+                </div>
+                <span asp-validation-for="DumplingRestaurant.Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="DumplingRestaurant.PhoneNumber"></label>
+                    <input asp-for="DumplingRestaurant.PhoneNumber" class="form-control" />
+                </div>
+                <span asp-validation-for="DumplingRestaurant.PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="DumplingRestaurant.Description"></label>
+                    <input asp-for="DumplingRestaurant.Description" class="form-control" />
+                </div>
+                <span asp-validation-for="DumplingRestaurant.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Link.PageLink"></label>
+                    <input asp-for="Link.PageLink" class="form-control" />
+                </div>
+                <span asp-validation-for="Link.PageLink" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Link.InstagramLink"></label>
+                    <input asp-for="Link.InstagramLink" class="form-control" />
+                </div>
+                <span asp-validation-for="Link.InstagramLink" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Link.FacebookLink"></label>
+                    <input asp-for="Link.FacebookLink" class="form-control" />
+                </div>
+                <span asp-validation-for="Link.FacebookLink" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Coordinate.CoordinateX"></label>
+                    <input asp-for="Coordinate.CoordinateX" class="form-control" />
+                </div>
+                <span asp-validation-for="Coordinate.CoordinateX" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Coordinate.CoordinateY"></label>
+                    <input asp-for="Coordinate.CoordinateY" class="form-control" />
+                </div>
+                <span asp-validation-for="Coordinate.CoordinateY" class="text-danger"></span>
+            </div>
+            
+        </div>
+        <div class="form2">
+            <h1>Schedule</h1>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Schedule.Monday"></label>
+                    <input asp-for="Schedule.Monday" class="form-control" />
+                </div>
+                <span asp-validation-for="Schedule.Monday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Schedule.Tuesday"></label>
+                    <input asp-for="Schedule.Tuesday" class="form-control" />
+                </div>
+                <span asp-validation-for="Schedule.Tuesday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Schedule.Wednesday"></label>
+                    <input asp-for="Schedule.Wednesday" class="form-control" />
+                </div>
+                <span asp-validation-for="Schedule.Wednesday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Schedule.Thursday"></label>
+                    <input asp-for="Schedule.Thursday" class="form-control" />
+                </div>
+                <span asp-validation-for="Schedule.Thursday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Schedule.Friday"></label>
+                    <input asp-for="Schedule.Friday" class="form-control" />
+                </div>
+                <span asp-validation-for="Schedule.Friday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Schedule.Saturday"></label>
+                    <input asp-for="Schedule.Saturday" class="form-control" />
+                </div>
+                <span asp-validation-for="Schedule.Saturday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Schedule.Sunday"></label>
+                    <input asp-for="Schedule.Sunday" class="form-control" />
+                </div>
+                <span asp-validation-for="Schedule.Sunday" class="text-danger"></span>
+            </div>
+        </div>
+            <div class="text-center">
+                <a style="background-color: white; -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.3); box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.3); border: none; color: black; padding: 16px 16px; text-align: center; text-decoration: none; display: inline-block; font-size: 26px; cursor: pointer; border-radius: 23px; margin-left: 1px; margin-right: 15px; margin-bottom: 8px; margin-top: 8px; border: 1px solid white; width: 200px; height: 50px; padding-top: 6px;" asp-page="AdminPanel">
+                    Return
+                </a>
+                <input type="submit" value="Add" class="button" />
+            </div>
+    </form>
+</div>
+<div id="pyza" style="height:150px;">
+    <img src="~/img/pyzunia.png">
+</div>
+@{
+<partial name="_ValidationScriptsPartial" /> }
