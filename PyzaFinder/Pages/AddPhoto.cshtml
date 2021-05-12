@@ -1,0 +1,60 @@
+﻿@page
+@model PyzaFinder.Pages.AddPhotoModel
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; }
+@section Styles {
+    <link rel="stylesheet" href="~/css/CreateEdit.css" />
+}
+<br />
+<h2 style="font-size:50px; text-align:center; padding-left:30px;">Add new restaurant</h2>
+<br />
+
+<div id="form" class="text-center">
+    <form method="post" enctype="multipart/form-data">
+        <div class="form2">
+            <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Photo.IdRestaurant"></label>
+                    <input asp-for="Photo.IdRestaurant" class="form-control" />
+                </div>
+                <span asp-validation-for="Photo.IdRestaurant" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Photo.Datetime"></label>
+                    <input asp-for="Photo.Datetime" class="form-control" />
+                </div>
+                <span asp-validation-for="Photo.Datetime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Photo.Path"></label>
+                    <input asp-for="Photo.Path" class="form-control" />
+                </div>
+                <span asp-validation-for="Photo.Path" class="text-danger"></span>
+            </div>
+            <div class="form-group row">
+                <label asp-for="Photo" class="col-sm-2 col-form-label"></label>
+                <div class="col-sm-10">
+                    <div class="custom-file">
+                        <input asp-for="Photo" class="form-control custom-file-input">
+                        <label class="custom-file-label">Choose File...</label>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center">
+                <a style="background-color: white; -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.3); box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.3); border: none; color: black; padding: 16px 16px; text-align: center; text-decoration: none; display: inline-block; font-size: 26px; cursor: pointer; border-radius: 23px; margin-left: 1px; margin-right: 15px; margin-bottom: 8px; margin-top: 8px; border: 1px solid white; width: 200px; height: 50px; padding-top: 6px;" asp-page="AdminGallery">
+                    Return
+                </a>
+                <input type="submit" value="Add" class="button" />
+            </div>
+        </div>
+
+    </form>
+</div>
+<div id="pyza" style="height:150px; display:block;">
+    <img src="~/img/pyzunia.png">
+</div>
+@{ 
+    <partial name="_ValidationScriptsPartial" />
+}
