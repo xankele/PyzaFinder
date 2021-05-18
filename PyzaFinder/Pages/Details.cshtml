@@ -1,0 +1,169 @@
+﻿@page
+@model PyzaFinder.Pages.DetailsModel
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; }
+@section Styles {
+    <link rel="stylesheet" href="~/css/Details.css" />
+    <link rel="stylesheet" href="~/css/fontello/css/fontello.css" type="text/css" />
+    <script src="~/js/oLayers/OpenLayers.js"></script>
+    <script src="~/js/oLayers/myInit.js"></script>
+    <script src="~/js/oLayers/myMarkersCloud.js"></script>
+}
+@functions{
+    @using Npgsql;private static NpgsqlConnection GetConnection()
+    {
+        return new NpgsqlConnection(@"Server=localhost;Port=5432;User Id=postgres;Password=12345;Database=pierogi");
+    }
+    private static string SelectSchedule(string day, int obcy)
+    {
+        using (NpgsqlConnection con = GetConnection())//nawiązanie połączenia z bazą
+        {
+            string val = "brak";
+            string query = $"select {day} from public.schedule where id_restaurant={obcy}";
+            con.Open();
+            // Define a query returning a single row result set
+            NpgsqlCommand command = new NpgsqlCommand(query, con);
+            // Execute the query and obtain the value of the first column of the first row
+            if (command.ExecuteScalar() != null)
+            {
+                string count = (string)command.ExecuteScalar();
+                val = count;
+            }
+            con.Close();
+            return val;
+        }
+    }
+    private static string SelectPath(int obcy)
+    {
+        using (NpgsqlConnection con = GetConnection())//nawiązanie połączenia z bazą
+        {
+            string val = "brak";
+            string query = $"select path from public.photo where id_restaurant={obcy} order by id_photo";
+            con.Open();
+            // Define a query returning a single row result set
+            NpgsqlCommand command = new NpgsqlCommand(query, con);
+            // Execute the query and obtain the value of the first column of the first row
+            if (command.ExecuteScalar() != null)
+            {
+                string count = (string)command.ExecuteScalar();
+                val = count;
+            }
+            con.Close();
+            return val;
+        }
+    }
+    private static string SelectCoordinates(int obcy, string coordinate)
+    {
+        using (NpgsqlConnection con = GetConnection())//nawiązanie połączenia z bazą
+        {
+            string val = "brak";
+            string query = $"select {coordinate} from public.coordinates where id_restaurant={obcy}";
+            con.Open();
+            // Define a query returning a single row result set
+            NpgsqlCommand command = new NpgsqlCommand(query, con);
+            // Execute the query and obtain the value of the first column of the first row
+            if (command.ExecuteScalar() != null)
+            {
+                string count = (string)command.ExecuteScalar().ToString();
+                val = count;
+            }
+            con.Close();
+            return val;
+        }
+    }
+    private static int SelectGrade(int obcy)
+    {
+        using (NpgsqlConnection con = GetConnection())//nawiązanie połączenia z bazą
+        {
+            int val = 0;
+            string query = $"select grade from public.opinion where id_restaurant={obcy}";
+            con.Open();
+            // Define a query returning a single row result set
+            NpgsqlCommand command = new NpgsqlCommand(query, con);
+            // Execute the query and obtain the value of the first column of the first row
+            var id = 0;
+            var reader = command.ExecuteReader();
+            int petla = 0;
+            while (reader.Read())
+            {
+                id = id + Int32.Parse(reader["grade"].ToString());
+                petla++;
+            }
+            //if (command.ExecuteScalar() != null)
+            //{
+            //    Int32 count = (Int32)command.ExecuteScalar();
+            //    val = count;
+            //}
+            val = id;
+            if (petla != 0) val = id / petla;
+            con.Close();
+            return val;
+        }
+    }
+
+}
+
+<div class="czesci" style="width: 29%">
+
+
+    <div class="text-center">
+        <img src="~/img/pyzunia.png" style="height: 150px; width: 150px; border-radius: 90px;" />
+        <br />
+
+        <a href="@Model.Link.PageLink" id="stronka">Restaurant's main page </a>
+        <h5>INFORMATION</h5> <br />
+        Phone: @Model.DumplingRestaurant.PhoneNumber<br />
+        Adress: @Model.DumplingRestaurant.Address <br />
+        Opening hours <br />
+        Monday: @Model.Schedule.Monday<br />
+        Tuesday: @Model.Schedule.Tuesday<br />
+        Wednesday: @Model.Schedule.Wednesday<br />
+        Thursday: @Model.Schedule.Thursday<br />
+        Friday: @Model.Schedule.Friday<br />
+        Saturday: @Model.Schedule.Saturday<br />
+        Sunday: @Model.Schedule.Sunday<br />
+        <a href="@Model.Link.FacebookLink"><i class="icon-facebook-squared" style="display:inline-block; font-size: 32px;"></i></ahref="@Model.Link.PageLink">
+        <a href="@Model.Link.InstagramLink"><i class="icon-instagram" style="display:inline-block; font-size: 32px;"></i></a>
+</div>
+
+</div>
+
+<div class="czesci" style="width: 35%">
+
+    <div class="text-center">
+
+
+
+        <div id="basicMap"></div>
+        <div id="pyza" style="height:120px;">
+            <img src="~/img/pyzunia.png">
+        </div>
+        <script type="text/javascript">
+            init();
+        </script>
+
+
+
+
+
+        <a asp-page="Map" id="stronka">Back to map</a>
+    </div>
+</div>
+<div class="czesci" style="width: 35%">
+    <div class="text-center">
+        <h3> @Model.DumplingRestaurant.Name </h3>
+        <h5> ABOUT THE RESTAURANT </h5> <br />
+        @Model.DumplingRestaurant.Description <br />
+
+        <a asp-page="Gallery" asp-route-id="@Model.DumplingRestaurant.IdRestaurant" id="stronka">Restaurant's gallery</a>
+    </div>
+
+</div>
+
+@{ string path = SelectPath(Model.DumplingRestaurant.IdRestaurant);
+    string grade = SelectGrade(Model.DumplingRestaurant.IdRestaurant).ToString();
+    string coord_x = SelectCoordinates(Model.DumplingRestaurant.IdRestaurant, "coordinate_x").ToString();
+    string coord_y = SelectCoordinates(Model.DumplingRestaurant.IdRestaurant, "coordinate_y").ToString(); }
+<script type="text/javascript">
+        fDrawMarkers("@Model.DumplingRestaurant.Name", "@coord_x", "@coord_y", "@path", "@grade");
+    fInitCenterMap("@coord_y", "@coord_x", 14);
+</script>

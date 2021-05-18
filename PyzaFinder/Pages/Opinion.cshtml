@@ -1,0 +1,55 @@
+﻿@page
+@model PyzaFinder.Pages.OpinionModel
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; }
+@section Styles {
+    <link rel="stylesheet" href="~/css/Map.css" />
+}
+
+<div class="text-center">
+
+    <h3>@Model.DumplingRestaurant.Name</h3>
+    <h4>Opinions</h4>
+    <div id="form">
+        <form method="post">
+            <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Opinion.Name"></label>
+                    <input asp-for="Opinion.Name" class="form-control" />
+                </div>
+                <span asp-validation-for="Opinion.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Opinion.Comment"></label>
+                    <input asp-for="Opinion.Comment" class="form-control" />
+                </div>
+                <span asp-validation-for="Opinion.Comment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="Opinion.Grade"></label>
+                    <input asp-for="Opinion.Grade" class="form-control" />
+                </div>
+                <span asp-validation-for="Opinion.Grade" class="text-danger"></span>
+            </div>
+
+            <div class="text-center">
+                <a style="background-color: white; -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.3); box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.3); border: none; color: black; padding: 16px 16px; text-align: center; text-decoration: none; display: inline-block; font-size: 26px; cursor: pointer; border-radius: 23px; margin-left: 1px; margin-right: 15px; margin-bottom: 8px; margin-top: 8px; border: 1px solid white; width: 200px; height: 50px; padding-top: 6px;" asp-page="AdminPanel">
+                    Return
+                </a>
+                <input type="submit" value="Add" class="button" />
+            </div>
+        </form>
+    </div>
+    @foreach (var opinion in Model.Opinions)
+    {
+        <div class="card m-3" style="max-width: 30%;  display: block;">
+            @opinion.Name <br/>
+            @opinion.Comment <br /> 
+            @opinion.Grade <br />
+
+        </div>
+     }
+
+</div>

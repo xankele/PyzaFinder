@@ -61,9 +61,9 @@ namespace PyzaFinder
                     .HasColumnName("name")
                     .IsFixedLength(true);
 
-                entity.Property(e => e.Acctype)
+                entity.Property(e => e.Account_type)
                     .HasMaxLength(255)
-                    .HasColumnName("acctype")
+                    .HasColumnName("account_type")
                     .IsFixedLength(true);
             });
 
@@ -109,9 +109,9 @@ namespace PyzaFinder
                     .HasColumnName("name")
                     .IsFixedLength(true);
 
-                entity.Property(e => e.Opis)
-                    .HasMaxLength(1000)
-                    .HasColumnName("opis")
+                entity.Property(e => e.Description)
+                    .HasMaxLength(10000)
+                    .HasColumnName("description")
                     .IsFixedLength(true);
 
                 entity.Property(e => e.PhoneNumber)
