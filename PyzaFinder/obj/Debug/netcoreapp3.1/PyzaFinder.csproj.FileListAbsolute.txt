@@ -2629,3 +2629,5 @@ D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFin
 D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.genruntimeconfig.cache
 D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Details.cshtml.g.cs
 D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\AdminPanel.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
+D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Opinion.cshtml.g.cs

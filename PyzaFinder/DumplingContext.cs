@@ -61,9 +61,9 @@ namespace PyzaFinder
                     .HasColumnName("name")
                     .IsFixedLength(true);
 
-                entity.Property(e => e.Acctype)
+                entity.Property(e => e.Account_type)
                     .HasMaxLength(255)
-                    .HasColumnName("acctype")
+                    .HasColumnName("account_type")
                     .IsFixedLength(true);
             });
 
