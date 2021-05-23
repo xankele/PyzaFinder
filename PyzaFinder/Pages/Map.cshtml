@@ -167,7 +167,6 @@
                 <script type="text/javascript">                       
                 fDrawMarkers("@item.Name", "@coord_x", "@coord_y", "@path", "@grade");                              
                 </script>
-                
                 <a asp-page="Details" asp-route-id="@item.IdRestaurant">
                     <li>
                         <div class="jeden">
@@ -201,7 +200,7 @@
                                     } }
                             </div>
                             <div class="opinie">
-                                <a href="polecam.html">Show opinions</a>
+                                <a asp-page="Opinion" asp-route-id="@item.IdRestaurant">Show opinions</a>
                             </div>
                             <div class="odleglosc">
                                 Distance: 5m

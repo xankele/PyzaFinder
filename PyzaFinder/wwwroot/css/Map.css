@@ -292,3 +292,12 @@ textarea {
     font-family: Tempus Sans ITC;
     resize: none;
 }
+a {
+    text-decoration: none;
+    color: black;
+}
+
+    a:hover {
+        text-decoration: none;
+        color: black;
+    }

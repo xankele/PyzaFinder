@@ -1,0 +1,44 @@
+﻿@page
+@model PyzaFinder.Pages.LoginModel
+@{
+}
+
+<div id="form">
+    <form method="post">
+        <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+        <div class="form-group">
+            <div>
+                <label asp-for="Account.Name"></label>
+                <input asp-for="Account.Name" class="form-control" />
+            </div>
+            <span asp-validation-for="Account.Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <div>
+                <label asp-for="Account.Email"></label>
+                <input asp-for="Account.Email" class="form-control" />
+            </div>
+            <span asp-validation-for="Account.Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <div>
+                <label asp-for="Account.Password"></label>
+                <input asp-for="Account.Password" class="form-control" />
+            </div>
+            <span asp-validation-for="Account.Password" class="text-danger"></span>
+        </div>
+
+        <div class="text-center">
+
+            @if (1 == 2)
+            {
+                <a asp-page="Map">Zaloguj sie</a>
+            }
+            else
+            {
+                <a asp-page="AdminPanel">Zaloguj sie</a>
+            }
+
+        </div>
+    </form>
+    </div>
