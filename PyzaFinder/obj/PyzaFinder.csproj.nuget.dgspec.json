@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anna\\Desktop\\PyzaFinder-ankelka (2)\\PyzaFinder-ankelka\\PyzaFinder\\PyzaFinder.csproj": {}
+    "C:\\Users\\Anna\\Desktop\\PyzaFinder-Opinia\\PyzaFinder\\PyzaFinder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anna\\Desktop\\PyzaFinder-ankelka (2)\\PyzaFinder-ankelka\\PyzaFinder\\PyzaFinder.csproj": {
+    "C:\\Users\\Anna\\Desktop\\PyzaFinder-Opinia\\PyzaFinder\\PyzaFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anna\\Desktop\\PyzaFinder-ankelka (2)\\PyzaFinder-ankelka\\PyzaFinder\\PyzaFinder.csproj",
+        "projectUniqueName": "C:\\Users\\Anna\\Desktop\\PyzaFinder-Opinia\\PyzaFinder\\PyzaFinder.csproj",
         "projectName": "PyzaFinder",
-        "projectPath": "C:\\Users\\Anna\\Desktop\\PyzaFinder-ankelka (2)\\PyzaFinder-ankelka\\PyzaFinder\\PyzaFinder.csproj",
+        "projectPath": "C:\\Users\\Anna\\Desktop\\PyzaFinder-Opinia\\PyzaFinder\\PyzaFinder.csproj",
         "packagesPath": "C:\\Users\\Anna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anna\\Desktop\\PyzaFinder-ankelka (2)\\PyzaFinder-ankelka\\PyzaFinder\\obj\\",
+        "outputPath": "C:\\Users\\Anna\\Desktop\\PyzaFinder-Opinia\\PyzaFinder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anna\\AppData\\Roaming\\NuGet\\NuGet.Config",

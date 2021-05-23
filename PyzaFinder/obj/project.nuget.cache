@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SAUc4vtYi6/zj8OHMe161nDIvSyrrmPRR60q7wjlPs62EA/8NH1UQwOI+uuboUnFH/qxlDAW1bRAbT6ggMYHvQ==",
+  "dgSpecHash": "u2eAgwkmOAebgdRc7j2ccSit7uSzMNntyJcANi4JVFQ2HID9PGop8azoJCPmgztgXHEDjSsyh+m3FJ0/U+OlgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anna\\Desktop\\PyzaFinder-ankelka (2)\\PyzaFinder-ankelka\\PyzaFinder\\PyzaFinder.csproj",
+  "projectFilePath": "C:\\Users\\Anna\\Desktop\\PyzaFinder-Opinia\\PyzaFinder\\PyzaFinder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anna\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Anna\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

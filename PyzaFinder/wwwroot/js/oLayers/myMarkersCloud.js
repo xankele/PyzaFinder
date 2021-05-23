@@ -47,7 +47,7 @@ function createMarkers(id, lon, lat, markerFile, markerWidth, markerHeight, offs
 
   var popupHtml=''
     popupHtml+='<div id="frameCloud">'
-		popupHtml += '<a href="/Details?id=23"><h1>' + popupTitle +'</h1></a>'
+		popupHtml += '<h1>' + popupTitle + '</h1></a>'
 
     popupHtml+='<div id="foto">'
     popupHtml+='<img src="'+popupImage+'" alt="foto '+popupTitle+'"/><br>'
