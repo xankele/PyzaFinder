@@ -8894,19 +8894,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Julcia\\.nuget\\packages\\": {}
+    "C:\\Users\\Ankele\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PyzaFinder-chomik\\PyzaFinder\\PyzaFinder.csproj",
+      "projectUniqueName": "D:\\Studia\\6 semestr\\Projekt zespołowy\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
       "projectName": "PyzaFinder",
-      "projectPath": "D:\\PyzaFinder-chomik\\PyzaFinder\\PyzaFinder.csproj",
-      "packagesPath": "C:\\Users\\Julcia\\.nuget\\packages\\",
-      "outputPath": "D:\\PyzaFinder-chomik\\PyzaFinder\\obj\\",
+      "projectPath": "D:\\Studia\\6 semestr\\Projekt zespołowy\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
+      "packagesPath": "C:\\Users\\Ankele\\.nuget\\packages\\",
+      "outputPath": "D:\\Studia\\6 semestr\\Projekt zespołowy\\PyzaFinder\\PyzaFinder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Julcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ankele\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1280,7 +1280,6 @@ D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreap
 D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Gallery.cshtml.g.cs
 D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Map.cshtml.g.cs
-D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\AddPhoto.cshtml.g.cs
 D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\AdminGallery.cshtml.g.cs
 D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
 D:\vorwi\POBRANE\PyzaFinder-ankelka_XDDD\PyzaFinder-ankelka\PyzaFinder\bin\Debug\netcoreapp3.1\appsettings.Development.json
@@ -2629,7 +2628,6 @@ D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFin
 D:\vorwi\ZajęciaZdalne\szóstySemestr\ZespołoweMapka\STRONA\PyzaFinder\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.genruntimeconfig.cache
 D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Details.cshtml.g.cs
 D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\AdminPanel.cshtml.g.cs
-D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Login.cshtml.g.cs
 D:\Studia\6 semestr\Projekt zespołowy\PyzaFinder\PyzaFinder\obj\Debug\netcoreapp3.1\Razor\Pages\Opinion.cshtml.g.cs
 C:\Users\vorwi\Desktop\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.csprojAssemblyReference.cache
 C:\Users\vorwi\Desktop\PyzaFinder-ankelka\PyzaFinder\obj\Debug\netcoreapp3.1\PyzaFinder.AssemblyInfoInputs.cache

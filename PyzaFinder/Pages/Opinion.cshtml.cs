@@ -12,7 +12,7 @@ namespace PyzaFinder.Pages
     {
         private static NpgsqlConnection GetConnection()
         {
-            return new NpgsqlConnection(@"Server=localhost;Port=5432;User Id=postgres;Password=studia;Database=pierogi");
+            return new NpgsqlConnection(@"Server=localhost;Port=5432;User Id=postgres;Password=12345;Database=pierogi");
         }
         private static void InsertOpinion(int obcy, string comm, DateTime? datetime, int grade, string name)
         {
