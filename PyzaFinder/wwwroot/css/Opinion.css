@@ -1,0 +1,138 @@
+body {
+    max-height: 640px;
+    font-family: Tempus Sans ITC;
+    white-space: nowrap;
+}
+
+.opinions {
+    overflow-y: auto;
+    height: 200px;
+    width:500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-group {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#restaurants {
+    padding-left: 1.2em;
+    text-align: left;
+    list-style: none;
+    font-size: 14px;
+}
+
+    #restaurants li {
+        background-color: white;
+        width: 260px;
+        height: 100px;
+        margin-bottom: 10px;
+        box-shadow: 9px 2px 21px 0px rgba(0,0,0,0.24);
+    }
+
+.infoPhoto {
+    display: inline-block;
+    width: 130px;
+    height: 80px;
+    border-radius: 46px;
+}
+
+    .infoPhoto img {
+        border-radius: 46px;
+        width: 70%;
+        height: auto;
+        margin-left: 99%;
+    }
+
+#pyza {
+    position: relative;
+}
+
+    #pyza img {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 12%;
+        height: auto;
+        margin: 40px;
+    }
+
+
+h1 {
+    text-align: left;
+    margin-left: 10%;
+    padding-top: 15px;
+}
+
+.button {
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.3);
+    box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.3);
+    color: black;
+    padding: 16px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 46px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+}
+
+.button2 {
+    background-color: white;
+    color: black;
+    height: 20px;
+    width: 45px;
+    font-family: Tempus Sans ITC;
+    margin-right: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    border: 1px solid black;
+}
+
+.button:hover {
+    background-color: #6d6d6d;
+}
+
+#stars {
+    float:left;
+    width: 10px;
+    height: auto;
+}
+
+    #stars img {
+        width: 10px;
+        height: auto;
+    }
+    #stars:hover {
+        box-shadow: 9px 2px 21px 0px rgba(0,0,0,0.24);
+    }
+
+textarea {
+    width: 100%;
+    height: 50px;
+    box-sizing: border-box;
+    font-family: Tempus Sans ITC;
+    resize: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+    a:hover {
+        text-decoration: none;
+        color: black;
+    }

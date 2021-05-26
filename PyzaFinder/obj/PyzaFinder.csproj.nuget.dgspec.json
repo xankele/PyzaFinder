@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studia\\6 semestr\\Projekt zespołowy\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj": {}
+    "D:\\PyzaFinder-chomik\\PyzaFinder\\PyzaFinder.csproj": {}
   },
   "projects": {
-    "D:\\Studia\\6 semestr\\Projekt zespołowy\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj": {
+    "D:\\PyzaFinder-chomik\\PyzaFinder\\PyzaFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studia\\6 semestr\\Projekt zespołowy\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
+        "projectUniqueName": "D:\\PyzaFinder-chomik\\PyzaFinder\\PyzaFinder.csproj",
         "projectName": "PyzaFinder",
-        "projectPath": "D:\\Studia\\6 semestr\\Projekt zespołowy\\PyzaFinder\\PyzaFinder\\PyzaFinder.csproj",
-        "packagesPath": "C:\\Users\\Ankele\\.nuget\\packages\\",
-        "outputPath": "D:\\Studia\\6 semestr\\Projekt zespołowy\\PyzaFinder\\PyzaFinder\\obj\\",
+        "projectPath": "D:\\PyzaFinder-chomik\\PyzaFinder\\PyzaFinder.csproj",
+        "packagesPath": "C:\\Users\\Julcia\\.nuget\\packages\\",
+        "outputPath": "D:\\PyzaFinder-chomik\\PyzaFinder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ankele\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,13 +56,21 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.4, )"
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.13, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.4, )"
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
             },
             "Npgsql": {
               "target": "Package",

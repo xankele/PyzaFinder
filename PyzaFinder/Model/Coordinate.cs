@@ -9,8 +9,8 @@ namespace PyzaFinder
     {
         public int IdCoordinates { get; set; }
         public int? IdRestaurant { get; set; }
-        public double? CoordinateX { get; set; }
-        public double? CoordinateY { get; set; }
+        public string CoordinateX { get; set; }
+        public string CoordinateY { get; set; }
 
         public virtual DumplingRestaurant IdRestaurantNavigation { get; set; }
     }

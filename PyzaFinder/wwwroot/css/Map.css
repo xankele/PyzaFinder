@@ -1,0 +1,303 @@
+﻿body {
+    max-height: 640px;
+    font-family: Tempus Sans ITC;
+    white-space: nowrap;
+}
+
+#googleMap {
+    border-radius: 46px;
+    box-shadow: 22px 22px 21px 0px rgba(0,0,0,0.3);
+    background-color: rgba(255, 255, 255, 0.856);
+
+}
+#basicMap {
+    height: 700px;
+    width: 100%;
+    padding: 2%;
+    float: right;
+    z-index: -1;
+    opacity: 0.99;
+    box-shadow: 3px 0px 3px 0px rgba(183, 183, 183, 0.5);
+    border-radius: 46px;
+}
+
+#frameCloud {
+    width: 150px;
+    padding: 5px;
+}
+
+    #frameCloud h1 {
+        font-size: .8em;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        font-weight: bold;
+        border-bottom: 1px solid rgb(0, 0, 0);
+        margin: 0;
+    }
+
+    #frameCloud span#dscr {
+        display: block;
+        font-size: .8em;
+        color: rgb(0, 0, 0);
+        margin: 5px 0;
+        line-height: .9em;
+    }
+
+    #frameCloud div#foto {
+        font-size: .7em;
+        color: rgb(0, 0, 0);
+        text-align: center;
+    }
+
+        #frameCloud div#foto img {
+            width: 140px;
+            border: 3px double #ccc;
+        }
+
+#myFramedCloud_contentDiv {
+    overflow-x: hidden;
+}
+
+#search2 {
+    text-align: center;
+    position: absolute;
+    width: 300px;
+    height: 700px;
+    border-bottom-left-radius: 46px;
+    border-top-left-radius: 46px
+}
+#search {
+    background-color: white;
+    opacity: 0.5;
+    position: absolute;
+    width: 300px;
+    height: 700px;
+    border-bottom-left-radius: 46px;
+    border-top-left-radius: 46px;
+    box-shadow: 22px 2px 21px 0px rgba(0,0,0,0.3);
+}
+
+#restaurants {
+    padding-left: 1.2em;
+    text-align: left;
+    list-style: none;
+    font-size: 14px;
+
+}
+
+    #restaurants li {
+        background-color: white;
+        width: 260px;
+        height: 100px;
+        margin-bottom: 10px;
+        box-shadow: 9px 2px 21px 0px rgba(0,0,0,0.24);
+    }
+
+.info {
+    display: inline-block;
+}
+
+    .info ul {
+        width: 130px;
+        height: 80px;
+        display: none;
+    }
+
+.napis {
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+
+.jeden {
+    height: 68%;
+    width: 98%;
+    padding: 2%;
+}
+
+.dwa {
+    width: 96%;
+    height: 30px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.gwiazdki {
+    height: 100%;
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+.opinie {
+    height: 100%;
+    float: left;
+    width: 34%;
+    font-family: Tempus Sans ITC;
+    font-size: 11px;
+    text-align: center;
+}
+
+.odleglosc {
+    height: 100%;
+    float: right;
+    width: 33%;
+    font-family: Tempus Sans ITC;
+    font-size: 11px;
+    text-align: center;
+}
+
+.infoPhoto {
+    display: inline-block;
+    width: 130px;
+    height: 80px;
+    border-radius: 46px;
+}
+
+    .infoPhoto img {
+        border-radius: 46px;
+        width: 70%;
+        height: auto;
+        margin-left: 99%;
+    }
+
+#pyza {
+    position: relative;
+
+}
+
+    #pyza img {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 12%;
+        height: auto;
+        margin: 40px;
+
+    }
+
+table {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    display: inline-table;
+    overflow: auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+
+table#t01 tr:nth-child(even) {
+    background-color: #f1f1f1;
+}
+
+table#t01 tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+table#t01 th {
+    background-color: #999998;
+    color: black;
+}
+
+h1 {
+    text-align: left;
+    margin-left: 10%;
+    padding-top: 15px;
+}
+
+.button {
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.3);
+    box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.3);
+    color: black;
+    padding: 16px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 46px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+}
+
+.button2 {
+    background-color: white;
+    color: black;
+    height: 20px;
+    width: 45px;
+    font-family: Tempus Sans ITC;
+    margin-right: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    border: 1px solid black;
+}
+
+.button:hover {
+    background-color: #6d6d6d;
+}
+
+.rwd-table {
+    overflow-y: scroll;
+}
+
+@media screen and (max-width:960px) {
+    .rwd-table {
+        overflow-y: scroll;
+    }
+}
+
+.komentarze {
+    height: 100%;
+    width: 500px;
+    margin: 0 auto;
+    color: black;
+    font-size: 15px;
+    background-color: rgb(250, 250, 248);
+}
+
+.komentarzemale {
+    margin: 2%;
+    padding: 2%;
+    height: 95px;
+    box-shadow: 22px 12px 21px 0px rgba(0,0,0,0.15);
+    background-color: white;
+}
+
+.dodajopinie {
+    background-color: white;
+    height: 125px;
+    box-shadow: 22px 12px 21px 0px rgba(0,0,0,0.15);
+}
+
+
+textarea {
+    width: 100%;
+    height: 50px;
+    box-sizing: border-box;
+    font-family: Tempus Sans ITC;
+    resize: none;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+    a:hover {
+        text-decoration: none;
+        color: black;
+    }

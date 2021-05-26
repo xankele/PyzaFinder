@@ -1,60 +1,19 @@
 ﻿@page
 @model PyzaFinder.Pages.IndexModel
-@{
-    Layout = "~/Views/Shared/_Layout.cshtml";
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; }
+@section Styles {
+    <link rel="stylesheet" href="~/css/Index.css" />
 }
-<br />
-<div class="container row p-0 m-0">
-    <div class="col-8">
-        <h2 class="text-info">List of restaurants</h2>
-    </div>
-    <div class="col-4">
-        <a asp-page="Create" class="btn btn-info form-control text-white">Add a new restaurant</a>
-    </div>
-<<<<<<< Updated upstream
-    <div class="col-12 border p-3 mt-3">
-        <form method="post">
-=======
+<div class="text-center">
 
-    <br />
-    <div id="table">
-        <form method="post" style="overflow-y: auto; height: 450px;">
->>>>>>> Stashed changes
-            @if (Model.DumplingRestaurants.Count() > 0)
-            {
-                <table class="table table-striped border">
-                    <tr class="table-secondary">
-                        <th>
-                            <label asp-for="DumplingRestaurants.FirstOrDefault().Name"></label>
-                        </th>
-                        <th>
-                            <label asp-for="DumplingRestaurants.FirstOrDefault().Address"></label>
-                        </th>
-                        <th>
+    <h1>Welcome to PyzaFinder</h1>
 
-                        </th>
-                    </tr>
-                    @foreach (var item in Model.DumplingRestaurants)
-                    {
-                        <tr>
-                            <td>
-                                @Html.DisplayFor(m => item.Name)
-                            </td>
-                            <td>
-                                @Html.DisplayFor(m => item.Address)
-                            </td>
-                            <td>
-                                <button asp-page-handler="Delete" asp-route-id="@item.IdRestaurant" onclick="return confirm('Are you sure you want to delete?')" class="btn btn-info btn-sm">Delete</button>
-                                <a asp-page="Edit" asp-route-id="@item.IdRestaurant" class="btn btn-info btn-sm text-white">Edit</a>
-                            </td>
-                        </tr>
-                    }
-                </table>
-            }
-            else
-            {
-                <p>There aren't any restaurants yet.</p>
-            }
-        </form>
-    </div>
+    <a asp-page="Map" >User</a>
+    <a asp-page="AdminPanel">Admin panel</a>
 </div>
+
+    
+
+
+
+

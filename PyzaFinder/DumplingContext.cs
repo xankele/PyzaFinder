@@ -30,7 +30,7 @@ namespace PyzaFinder
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseNpgsql("Server=localhost;Database=pierogi;User Id=postgres;Password=studia");
+                optionsBuilder.UseNpgsql("Server=localhost;Database=pierogi;User Id=postgres;Password=12345");
             }
         }
 
@@ -61,9 +61,9 @@ namespace PyzaFinder
                     .HasColumnName("name")
                     .IsFixedLength(true);
 
-                entity.Property(e => e.Acctype)
+                entity.Property(e => e.Account_type)
                     .HasMaxLength(255)
-                    .HasColumnName("acctype")
+                    .HasColumnName("account_type")
                     .IsFixedLength(true);
             });
 
@@ -109,9 +109,9 @@ namespace PyzaFinder
                     .HasColumnName("name")
                     .IsFixedLength(true);
 
-                entity.Property(e => e.Opis)
-                    .HasMaxLength(1000)
-                    .HasColumnName("opis")
+                entity.Property(e => e.Description)
+                    .HasMaxLength(10000)
+                    .HasColumnName("description")
                     .IsFixedLength(true);
 
                 entity.Property(e => e.PhoneNumber)
