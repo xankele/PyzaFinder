@@ -26,4 +26,16 @@
     <Folder Include="wwwroot\lib\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\slick\fonts\slick.woff" />
+    <None Include="wwwroot\slick\slick-theme.css" />
+    <None Include="wwwroot\slick\slick-theme.less" />
+    <None Include="wwwroot\slick\slick-theme.scss" />
+    <None Include="wwwroot\slick\slick.css" />
+    <None Include="wwwroot\slick\slick.js" />
+    <None Include="wwwroot\slick\slick.less" />
+    <None Include="wwwroot\slick\slick.min.js" />
+    <None Include="wwwroot\slick\slick.scss" />
+  </ItemGroup>
+
 </Project>
