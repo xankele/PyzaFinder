@@ -7,11 +7,11 @@
 <br/>
 <div style="margin-left: 60px; margin-right:60px">
     <div style="display:inline-block;">
-        <h2 style="font-size:50px; text-align:center; padding-left:30px;">Lista restauracji</h2>
+        <h2 style="font-size:50px; text-align:center; padding-left:30px;">List of restaurants</h2>
     </div>
 
     <div class="button2">
-        <a asp-page="Create">Dodaj restauracje</a>
+        <a asp-page="Create">Add restaurant</a>
     </div>
     <br />
     <div id="table">
@@ -42,12 +42,12 @@
                             </td>
                             <td>
                                 <a asp-page="AdminGallery" asp-route-id="@item.IdRestaurant" style="background-color: white; -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.3); box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.3); color: black; padding: 16px 16px; text-align: center; text-decoration: none; display: inline-block; font-size: 22px; cursor: pointer; border-radius: 23px; margin-left: 1px; margin-right: 15px; margin-bottom: 8px; margin-top: 8px; border: 1px solid white; width: 120px; height: 40px; padding-top: 1.4px; ">
-                                    GALERIA
+                                    GALLERY
                                 </a>
                                 <a asp-page="Edit" asp-route-id="@item.IdRestaurant" style="background-color: white; -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.3); box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.3); color: black; padding: 16px 16px; text-align: center; text-decoration: none; display: inline-block; font-size: 22px; cursor: pointer; border-radius: 23px; margin-left: 1px; margin-right: 15px; margin-bottom: 8px; margin-top: 8px; border: 1px solid white; width: 120px; height: 40px; padding-top: 1.4px; ">
-                                    EDYTUJ
+                                    EDIT
                                 </a>
-                                <button asp-page-handler="Delete" asp-route-id="@item.IdRestaurant" onclick="return confirm('Czy na pewno chcesz usunac ta pierogarnie?')" class="btn btn-info btn-sm" style="        background-color: white;
+                                <button asp-page-handler="Delete" asp-route-id="@item.IdRestaurant" onclick="return confirm('Are you sure you want to delete this restaurant?')" class="btn btn-info btn-sm" style="        background-color: white;
         -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.3);
         box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.3);
         color: black;
@@ -66,7 +66,7 @@
         width: 120px;
         height: 40px;
         padding-top: 1.4px;">
-                                    USUN
+                                    DELETE
                                 </button>
 
 

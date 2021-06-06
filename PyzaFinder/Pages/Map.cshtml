@@ -139,7 +139,7 @@
     box-shadow: 22px 12px 21px 0px rgba(0,0,0,0.15);">
             <form>
                 <i class="icon-search"></i>
-                <input value="Search" asp-for="SearchTerm" onfocus="if (this.value == 'Wyszukaj') {this.value = '';}" style="        height: 35px;
+                <input value="Search" asp-for="SearchTerm" onfocus="if (this.value == 'Search') {this.value = '';}" style="        height: 35px;
         border-radius: 46px;
         box-shadow: 22px 12px 21px 0px rgba(0,0,0,0.15);
         background-color: #ffffff;
@@ -152,7 +152,7 @@
             </form>
         </div>
     </div>
-    <h2 style="font-size:20px">LISTA RESTAURACJI</h2>
+    <h2 style="font-size:20px">LIST OF RESTAURANTS</h2>
     <ul id="restaurants">
         <div style="width: 100%; height: 560px; overflow-y: auto;">
             <script type="text/javascript">
@@ -171,8 +171,8 @@
                     <li>
                         <div class="jeden">
                             <div class="napis">
-                                Nazwa: @Html.DisplayFor(m => item.Name)<br>
-                                Dzisiaj:
+                                Name: @Html.DisplayFor(m => item.Name)<br>
+                                Today:
                                 @{string day = DateTime.Now.DayOfWeek.ToString(); }
                                 @SelectSchedule(day, item.IdRestaurant);
                                 <br>
@@ -186,7 +186,7 @@
                                     ocena = SelectGrade(item.IdRestaurant);
                                     if (ocena == 0)
                                     {
-                                        <p>brak ocen</p> }
+                                        <p>no grades</p> }
                                     while (ocena > 0)
                                     {
                                         if (ocena > 1)
@@ -200,7 +200,7 @@
                                     } }
                             </div>
                             <div class="opinie">
-                                <a asp-page="Opinion" asp-route-id="@item.IdRestaurant">Opinie</a>
+                                <a asp-page="Opinion" asp-route-id="@item.IdRestaurant">Opinions</a>
                             </div>
                         </div>
                     </li>
