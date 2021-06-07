@@ -41,10 +41,11 @@
     cursor: pointer;
     border-radius: 23px;
     border: 1px solid white;
-    width: 420px;
+    width: 200px;
     height: 52px;
     padding-top: 6px;
     margin-top:5px;
+    margin-left:10px;
 }
 #pyza {
     position: relative;

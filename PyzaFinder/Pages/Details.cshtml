@@ -110,10 +110,10 @@
         <br />
 
         <a href="@Model.Link.PageLink" id="stronka">Restaurant's main page </a>
-        <h5>INFORMATION</h5> <br />
-        Phone: @Model.DumplingRestaurant.PhoneNumber<br />
-        Adress: @Model.DumplingRestaurant.Address <br />
-        Opening hours <br />
+        <h5>INFORMATIONS</h5> <br />
+        Telephone: @Model.DumplingRestaurant.PhoneNumber<br />
+        Address: @Model.DumplingRestaurant.Address <br />
+        Open hours <br />
         Monday: @Model.Schedule.Monday<br />
         Tuesday: @Model.Schedule.Tuesday<br />
         Wednesday: @Model.Schedule.Wednesday<br />
@@ -151,10 +151,11 @@
 <div class="czesci" style="width: 35%">
     <div class="text-center">
         <h3> @Model.DumplingRestaurant.Name </h3>
+        </br>
         <h5> ABOUT THE RESTAURANT </h5> <br />
         @Model.DumplingRestaurant.Description <br />
 
-        <a asp-page="Gallery" asp-route-id="@Model.DumplingRestaurant.IdRestaurant" id="stronka">Restaurant's gallery</a>
+        <a asp-page="Gallery" asp-route-id="@Model.DumplingRestaurant.IdRestaurant" id="stronka">Gallery</a>
     </div>
 
 </div>

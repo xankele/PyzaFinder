@@ -1,44 +1,66 @@
 ﻿@page
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; }
 @model PyzaFinder.Pages.LoginModel
-@{
+@{ }
+@section Styles {
+    <link rel="stylesheet" href="~/css/CreateEdit.css" />
 }
 
-<div id="form">
-    <form method="post">
-        <div class="text-danger" asp-validation-summary="ModelOnly"></div>
-        <div class="form-group">
-            <div>
-                <label asp-for="Account.Name"></label>
-                <input asp-for="Account.Name" class="form-control" />
-            </div>
-            <span asp-validation-for="Account.Name" class="text-danger"></span>
-        </div>
-        <div class="form-group">
-            <div>
-                <label asp-for="Account.Email"></label>
-                <input asp-for="Account.Email" class="form-control" />
-            </div>
-            <span asp-validation-for="Account.Email" class="text-danger"></span>
-        </div>
-        <div class="form-group">
-            <div>
-                <label asp-for="Account.Password"></label>
-                <input asp-for="Account.Password" class="form-control" />
-            </div>
-            <span asp-validation-for="Account.Password" class="text-danger"></span>
-        </div>
-
-        <div class="text-center">
-
-            @if (1 == 2)
-            {
-                <a asp-page="Map">Zaloguj sie</a>
+<HEAD>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-2">
+    <SCRIPT LANGUAGE="JavaScript" type="text/javascript">
+        var users = new Array("user1", "user2", "user3");
+        var passwords = new Array("kod1", "kod2", "kod3");
+        function sprawdz_haslo(user, pass) {
+            for (var i = 0; i < users.length; i++) {
+                if ((user == users[i]) && (pass == passwords[i]))
+                    return true;
             }
-            else
-            {
-                <a asp-page="AdminPanel">Zaloguj sie</a>
-            }
+            return false;
+        }
+        function wyjdz() {
 
-        </div>
-    </form>
-    </div>
+                document.location.href = "Index";
+
+        }
+        function check() {
+            var user = document.form1.user.value;
+            var pass = document.form1.pass.value;
+            if (!sprawdz_haslo(user, pass)) {
+                alert('Niepoprawne hasło!');
+            }
+            else {
+                document.location.href = "AdminPanel";
+            }
+        }
+
+    </SCRIPT>
+</HEAD>
+<BODY>
+    <CENTER>
+        <H2 style="padding-top: 150px;">Enter login and password:</H2>
+        <FORM NAME="form1">
+            <TABLE border="1">
+                <TR>
+                    <TD bordercolor="#FFFFFF">Login:</TD>
+                    <TD bordercolor="#FFFFFF">
+                        <INPUT TYPE="text" NAME="user">
+                    </TD>
+                </TR>
+                <TR>
+                    <TD bordercolor="#FFFFFF">Password:</TD>
+                    <TD bordercolor="#FFFFFF">
+                        <INPUT TYPE="password" NAME="pass">
+                    </TD>
+                </TR>
+                <TR>
+                    <TD colspan="2" align="center" bordercolor="#FFFFFF">
+                        <INPUT TYPE="button" VALUE="Sign In" onClick="check();">
+                        <INPUT TYPE="button" VALUE="Back" onClick="wyjdz();">
+                    </TD>
+                </TR>
+
+            </TABLE>
+        </FORM>
+    </CENTER>
+</BODY>

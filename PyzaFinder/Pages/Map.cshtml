@@ -178,7 +178,7 @@
                                 <br>
                                 @Html.DisplayFor(m => item.Address)
                             </div>
-                            <a href="polecam.html"><img src="@Url.Content(path)" style="height: 98%; border-radius: 25px; padding-right: 2%; width: auto; float: right;"></a>
+
                         </div>
                         <div class="dwa">
                             <div class="gwiazdki">
@@ -186,7 +186,7 @@
                                     ocena = SelectGrade(item.IdRestaurant);
                                     if (ocena == 0)
                                     {
-                                        <p>brak ocen</p> }
+                                        <p>no grades</p> }
                                     while (ocena > 0)
                                     {
                                         if (ocena > 1)
@@ -200,10 +200,7 @@
                                     } }
                             </div>
                             <div class="opinie">
-                                <a asp-page="Opinion" asp-route-id="@item.IdRestaurant">Show opinions</a>
-                            </div>
-                            <div class="odleglosc">
-                                Distance: 5m
+                                <a asp-page="Opinion" asp-route-id="@item.IdRestaurant">Opinions</a>
                             </div>
                         </div>
                     </li>
